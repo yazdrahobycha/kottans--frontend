@@ -1,7 +1,30 @@
-# Всім привіт! Мене звати Арсен, я з Дрогобича!
+# Kottans-Frontend
+
+## Всім привіт! Мене звати Арсен, я з Дрогобича!
 
 Дуже вдячний за можливість навчатись на цьому початкову курсі безкоштовно! Також дякую за підтримку і лампову атмосферу в чаті! Ви всі котики!
-![kitty+clip+cat+kitten+low+cost+spay+neuter+program+raleigh+nc+wake+county](https://user-images.githubusercontent.com/116275708/198712664-6faf16e2-2ec3-449f-9e71-907156cdc788.jpeg)
+> <details>
+>   <summary>Клацай,тут ви!</summary>
+> 
+> </details>
+
+
+## Tasks
+- [x] [Git Basics](#git-та-github)
+- [ ] [Linux CLI, and HTTP](#linux-cli-and-http)
+- [ ] [Git Collaboration](#git-collaboration)
+- [ ] [Intro to HTML and CSS](#intro-to-html-and-css)
+- [ ] [Responsive Web Design](#responsive-web-design)
+- [ ] [HTML CSS Popup](#html-css-popup)
+- [ ] [JS Basics](#js-basics)
+- [ ] [DOM](#dom)
+- [ ] [Tiny JS World](#tiny-js-world)
+- [ ]  [Object Oriented JS](#object-oriented-js)
+- [ ] [OOP Exercise](#oop-exercise)
+- [ ] [Offline Web Applications](#offline-web-applications)
+- [ ] [Memory Pair Game](#memory-pair-game)
+- [ ] [Website Performance Optimization](#website-performance-optimization)
+- [ ] [Friends App](#friends-app)
 
 ## Git and Github
 
