@@ -10,7 +10,7 @@
 
 
 ## Tasks
-- [x] [Git Basics](#git-та-github)
+- [x] [Git Basics](#git-basics)
 - [x] [Linux CLI, and HTTP](#linux-cli-and-http)
 - [x] [Git Collaboration](#git-collaboration)
 - [ ] [Intro to HTML and CSS](#intro-to-html-and-css)
@@ -54,3 +54,30 @@
 2. Здивувала інформація про роботу протоколу передачі данних, злагоженість і дотошність цієх системи, заголовки на всі випадки життя так би мовити). Також здивувала реальна суть команди chmode, томущо для мене це була чарівна палочка виручалочка, яка допомагала запускати програми з торента, які самі запускатись не хотіли. А виявляється це звичайна зміна прав.
 
 3. Щодо команд Linux, уже навіть на данному, початковому етапі уже активно використовую різноманітні команди (cd, chmode ls-l і тд). Звичайно, покищо я не маю можливості використовувати повний потенціал строки (який мені ще, звісно потрібно в подальшому для себе розкривати), але рухаємось у вірному напрямку! Якщо говорити  про HTTP-статтю, то, якщо чесно, ще не до кінця розумію як цю інформацію можна буде застовувати, занадто в моїй голові все покищо абстрактно, занадто багато незрозумілих термінів, понятть, процесів. Значить будемо поступово заповнювати такі темні плями і потроху розбиратись з практичним застосуванням!
+
+## Git Collaboration
+
+> <details>
+>   <summary>Git Basics on Coursera</summary>
+> <img src="task_git_collaboration/GitCoursera1.png"
+>   <summary></summary>
+> <img src="task_git_collaboration/GitCoursera2.png"
+>   <summary></summary>
+> <img src="task_git_collaboration/GitCoursera3.png"
+>   <summary></summary>
+> <img src="task_git_collaboration/GitCoursera4.png"
+> </details>
+
+> <details>
+>   <summary>learngitbranching.js.org</summary>
+> <img src="task_git_collaboration/GitQuiz1.png"
+>   <summary></summary>
+> <img src="task_git_collaboration/GitQuiz2.png"
+>   <summary></summary>
+> </details>
+
+1. Доверши всвоє розуміння Git, здається мені що навіть повністю розібрався (но це не точно). Почав нормально візуалізувати собі git команди, тобто осмислив для себе їх сенс
+
+2. Здивувала суть декількох git команд, які не до кінця зрозумів в першому уроці. Серед них різниця fetch і pull, зрозумів що таке upstream, зрозумів що саме робить rebase і cherry-pich і тд.
+
+3. Попередніми й вивченими в цьому уроці командами збираюсь активно користуватись при роботі з більш важчими завданнями, ніж просто редактування README.md (* ^ ω ^)
