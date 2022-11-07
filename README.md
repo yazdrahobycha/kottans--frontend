@@ -41,8 +41,11 @@
 > <details>
 >   <summary>Linux Survival Screenshots</summary>
 > <img src="task_linux_cli/LinuxQuiz1.png"
+>   <summary></summary>
 > <img src="task_linux_cli/LinuxQuiz2.png"
+>   <summary></summary>
 > <img src="task_linux_cli/LinuxQuiz3.png"
+>   <summary></summary>
 > <img src="task_linux_cli/LinuxQuiz4.png"
 > </details>
 
