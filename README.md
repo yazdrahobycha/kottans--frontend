@@ -87,12 +87,14 @@
 > <details>
 >   <summary>"Intro to HTML and CSS" on Coursera</summary>
 > <img src="task_html_css_intro/Coursera HTML.png"
+>   <summary><summary>
 > <img src="task_html_css_intro/Coursera CSS.png"
 > </details>
 
 > <details>
 >   <summary>"Learn HTML and CSS" on CodeCamp</summary>
 > <img src="task_html_css_intro/CodeCamp HTML.png"
+>   <summary><summary>
 > <img src="task_html_css_intro/CodeCamp CSS.png"
 > </details>
 
