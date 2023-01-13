@@ -111,14 +111,17 @@
 >   <summary>"FLEXBOX. Вчимося верстати на флексах</summary>
 > <img src="task_responsive_web_design/FreelancerFlex.png"
 > </details>
+
 > <details>
 >   <summary>"Flexbox Froggy</summary>
 > <img src="task_responsive_web_design/FlexboxFroggy.png"
 > </details>
+
 > <details>
 >   <summary>"CSS Grid Layout"</summary>
 > <img src="task_responsive_web_design/FreelancerGrid.png.png"
 > </details>
+
 > <details>
 >   <summary>"Grid Garden"</summary>
 > <img src="task_responsive_web_design/GridGarden.png"
