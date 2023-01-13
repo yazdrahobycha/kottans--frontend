@@ -119,7 +119,7 @@
 
 > <details>
 >   <summary>"CSS Grid Layout"</summary>
-> <img src="task_responsive_web_design/FreelancerGrid.png.png"
+> <img src="task_responsive_web_design/FreelancerGrid.png"
 > </details>
 
 > <details>
