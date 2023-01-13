@@ -1,30 +1,31 @@
 # Kottans-Frontend
 
-## Всім привіт! Мене звати Арсен, я з Дрогобича!
+## Всім привіт! Мене звати Арсен, я з Дрогобича
 
 Дуже вдячний за можливість навчатись на цьому початкову курсі безкоштовно! Також дякую за підтримку і лампову атмосферу в чаті! Ви всі котики!
+
 > <details>
 >   <summary>Клацай,тут ви!</summary>
 > <img src="cats img/alotofcats.jpeg"
 > </details>
 
-
 ## Tasks
-- [x] [Git Basics](#git-basics)
-- [x] [Linux CLI, and HTTP](#linux-cli-and-http)
-- [x] [Git Collaboration](#git-collaboration)
-- [ ] [Intro to HTML and CSS](#intro-to-html-and-css)
-- [ ] [Responsive Web Design](#responsive-web-design)
-- [ ] [HTML CSS Popup](#html-css-popup)
-- [ ] [JS Basics](#js-basics)
-- [ ] [DOM](#dom)
-- [ ] [Tiny JS World](#tiny-js-world)
-- [ ]  [Object Oriented JS](#object-oriented-js)
-- [ ] [OOP Exercise](#oop-exercise)
-- [ ] [Offline Web Applications](#offline-web-applications)
-- [ ] [Memory Pair Game](#memory-pair-game)
-- [ ] [Website Performance Optimization](#website-performance-optimization)
-- [ ] [Friends App](#friends-app)
+
+-   [x] [Git Basics](#git-basics)
+-   [x] [Linux CLI, and HTTP](#linux-cli-and-http)
+-   [x] [Git Collaboration](#git-collaboration)
+-   [ ] [Intro to HTML and CSS](#intro-to-html-and-css)
+-   [ ] [Responsive Web Design](#responsive-web-design)
+-   [ ] [HTML CSS Popup](#html-css-popup)
+-   [ ] [JS Basics](#js-basics)
+-   [ ] [DOM](#dom)
+-   [ ] [Tiny JS World](#tiny-js-world)
+-   [ ] [Object Oriented JS](#object-oriented-js)
+-   [ ] [OOP Exercise](#oop-exercise)
+-   [ ] [Offline Web Applications](#offline-web-applications)
+-   [ ] [Memory Pair Game](#memory-pair-game)
+-   [ ] [Website Performance Optimization](#website-performance-optimization)
+-   [ ] [Friends App](#friends-app)
 
 ## Git Basics
 
@@ -80,7 +81,7 @@
 
 2. Здивувала суть декількох git команд, які не до кінця зрозумів в першому уроці. Серед них різниця fetch і pull, зрозумів що таке upstream, зрозумів що саме робить rebase і cherry-pich і тд.
 
-3. Попередніми й вивченими в цьому уроці командами збираюсь активно користуватись при роботі з більш важчими завданнями, ніж просто редактування README.md (* ^ ω ^)
+3. Попередніми й вивченими в цьому уроці командами збираюсь активно користуватись при роботі з більш важчими завданнями, ніж просто редактування README.md (\* ^ ω ^)
 
 ## Intro to HTML and CSS
 
@@ -104,5 +105,21 @@
 
 3. Перед проходженням цієї таски глянув на завдання, яке мені потрібно буде зробити, а саме попап. І паралельно проходженню курсів таски я брав до особливої уваги ті конкретні інсрументи, які зможуть мені пригодитись під час виконання попапу. Все складалось як пазл. Спочатку дізнався як зробити nav (як його стилізувати, округлити краї, вистроїти li елементи вряд), потім зрозумів як зробити скрол-меню за допомою overflow, як зробити це меню зникаючим і тд. Тобто вже себе готую до практичного виконання завдання! Не буду лукавити - трішки страшно, але настроєний я серйозно, впораюсь!
 
+## Responsive Web Design
 
-
+> <details>
+>   <summary>"FLEXBOX. Вчимося верстати на флексах</summary>
+> <img src="task_responsive_web_design/FreelancerFlex.png"
+> </details>
+> <details>
+>   <summary>"Flexbox Froggy</summary>
+> <img src="task_responsive_web_design/FlexboxFroggy.png"
+> </details>
+> <details>
+>   <summary>"CSS Grid Layout"</summary>
+> <img src="task_responsive_web_design/FreelancerGrid.png.png"
+> </details>
+> <details>
+>   <summary>"Grid Garden"</summary>
+> <img src="task_responsive_web_design/GridGarden.png"
+> </details>
