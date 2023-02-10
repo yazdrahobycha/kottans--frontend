@@ -145,3 +145,23 @@ However, there is still room for improvement. The project needs to be fully adap
 
 ## JS Basics
 
+> <details>
+>   <summary>Coursera JS Basics</summary>
+> <img src="task_js_basics/Coursera JS.png"
+> </details>
+
+> <details>
+>   <summary>FreeCodeCamp JS tasks</summary>
+> <img src="task_js_basics/Basic JS.png"
+>   <summary></summary>
+> <img src="task_js_basics/ES6.png"
+>   <summary></summary>
+> <img src="task_js_basics/Basic Data Structures.png"
+>   <summary></summary>
+> <img src="task_js_basics/Basic Algorhitm Scripting.png"
+>   <summary></summary>
+> <img src="task_js_basics/Functional Programming.png"
+>   <summary></summary>
+> <img src="task_js_basics/Intermediate Algorithm Scripting.png"
+> </details>
+
