@@ -52,9 +52,9 @@ As a beginner in the world of programming, I can say that it was a challenging b
 
 1. This was my first encounter with the Linux command line, despite having used a Macbook for over six years. In the past, I had limited exposure to the terminal and had limited understanding of its functionality. However, I was excited to finally have the opportunity to manipulate my file system through the terminal. The article about the HTTP protocol was initially difficult to comprehend, as I had limited understanding of how a browser operates. Nevertheless, after multiple readings and extensive research, I was able to form a basic understanding of the subject. I am aware that there is still much to learn and I plan to revisit this topic in the future.
 
-2. I was impressed by the information about the data transfer protocol and the coherence and thoroughness of these systems. I was also intrigued by the chmode command, which I initially saw as a magical solution for launching torrent programs. I was surprised to learn that it was simply a change of rights.
+2. I was impressed by the information about the data transfer protocol and the coherence and thoroughness of these systems. I was also intrigued by the <code>chmode</code> command, which I initially saw as a magical solution for launching torrent programs. I was surprised to learn that it was simply a change of rights.
 
-3. I am already actively using various Linux commands, such as cd, chmode, ls-l, among others. Although I am still discovering the full potential of the terminal, I am moving in the right direction. As for the HTTP article, I have yet to fully understand its concepts and processes, as they are still abstract in my mind. However, I am confident that with time and continued learning, I will gradually fill in these gaps and apply my knowledge in a practical manner.
+3. I am already actively using various Linux commands, such as <code>cd</code>, <code>chmode</code>, <code>ls-l</code>, among others. Although I am still discovering the full potential of the terminal, I am moving in the right direction. As for the HTTP article, I have yet to fully understand its concepts and processes, as they are still abstract in my mind. However, I am confident that with time and continued learning, I will gradually fill in these gaps and apply my knowledge in a practical manner.
 
 ## Git Collaboration
 
@@ -79,7 +79,7 @@ As a beginner in the world of programming, I can say that it was a challenging b
 
 1. Upon completion of my studies on Git, I feel that I have a strong understanding of the topic. I am now able to visualize the Git commands and their meanings in a clear manner.
 
-2. During the course, I was pleasantly surprised by the depth of several Git commands that I initially had limited understanding of. I now have a clear understanding of the difference between fetch and pull, the concept of upstream, and the functions of rebase and cherry-pick, among others.
+2. During the course, I was pleasantly surprised by the depth of several Git commands that I initially had limited understanding of. I now have a clear understanding of the difference between fetch and pull, the concept of <code>upstream</code>, and the functions of <code>rebase</code> and <code>cherry-pick</code>, among others.
 
 3. I plan to actively utilize the commands learned in this lesson as I tackle more complex tasks, beyond just editing README.md. (* ^ ω ^)
 
@@ -103,7 +103,7 @@ As a beginner in the world of programming, I can say that it was a challenging b
 
 2. I was struck by the simplicity and depth of the concepts used for basic website markup and styling. The breadth of what can be achieved with these tools is truly impressive.
 
-3. In preparation for a future task to create a pop-up, I focused on learning specific tools and techniques that would be useful. I approached the task like putting together a puzzle, first learning how to create a nav, stylize it, round edges, and arrange li elements in a row. Then I learned how to create a scroll menu using overflow and how to make it disappear. While a bit intimidating, I am committed to successfully completing this task.
+3. In preparation for a future task to create a pop-up, I focused on learning specific tools and techniques that would be useful. I approached the task like putting together a puzzle, first learning how to create a <code>nav</code>, stylize it, round edges, and arrange <code>li</code> elements in a row. Then I learned how to create a scroll menu using <code>overflow</code> and how to make it disappear. While a bit intimidating, I am committed to successfully completing this task.
 
 ## Responsive Web Design
 
@@ -131,7 +131,7 @@ As a beginner in the world of programming, I can say that it was a challenging b
 
 2. The ease with which animations and transformations can be created was a pleasant surprise. Before I started learning about these topics, I thought that the tricks I saw on websites, like changing the position of an element when hovering, were only possible for the most talented web developers. I soon learned that animations are actually quite manageable, even when taking into account the fact that one property can contain timing, acceleration, and delay.
 
-3. Flex has become a crucial tool in my CSS toolkit. I find myself using it more often than grid, although I expect this may change as I continue to develop my skills. I am already experimenting with various interesting transformations, and feel that I am beginning to gain expertise in this area. On the other hand, I still need to learn how to use variables other than colors, and how to write more concise media requests. While I've made a lot of progress, my code still has room for improvement, but I'm determined to continue learning and working. I've studied FreeCodeCamp courses, paid CSS courses through Codecademy, and I have a long list of other courses that I plan to tackle in the future. My ultimate goal is to master JavaScript, but I know that this will require a lot of work and dedication.
+3. **Flex** has become a crucial tool in my CSS toolkit. I find myself using it more often than grid, although I expect this may change as I continue to develop my skills. I am already experimenting with various interesting transformations, and feel that I am beginning to gain expertise in this area. On the other hand, I still need to learn how to use variables other than colors, and how to write more concise media requests. While I've made a lot of progress, my code still has room for improvement, but I'm determined to continue learning and working. I've studied FreeCodeCamp courses, paid CSS courses through Codecademy, and I have a long list of other courses that I plan to tackle in the future. My ultimate goal is to master **JavaScript**, but I know that this will require a lot of work and dedication.
 
 ## HTML CSS Popup
 
