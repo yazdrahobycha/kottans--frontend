@@ -79,7 +79,7 @@ As a beginner in the world of programming, I can say that it was a challenging b
 
 1. Upon completion of my studies on Git, I feel that I have a strong understanding of the topic. I am now able to visualize the Git commands and their meanings in a clear manner.
 
-2. During the course, I was pleasantly surprised by the depth of several Git commands that I initially had limited understanding of. I now have a clear understanding of the difference between fetch and pull, the concept of <code>upstream</code>, and the functions of <code>rebase</code> and <code>cherry-pick</code>, among others.
+2. During the course, I was pleasantly surprised by the depth of several Git commands that I initially had limited understanding of. I now have a clear understanding of the difference between `fetch` and `pull`, the concept of <code>upstream</code>, and the functions of <code>rebase</code> and <code>cherry-pick</code>, among others.
 
 3. I plan to actively utilize the commands learned in this lesson as I tackle more complex tasks, beyond just editing README.md. (* ^ ω ^)
 
@@ -134,4 +134,14 @@ As a beginner in the world of programming, I can say that it was a challenging b
 3. **Flex** has become a crucial tool in my CSS toolkit. I find myself using it more often than grid, although I expect this may change as I continue to develop my skills. I am already experimenting with various interesting transformations, and feel that I am beginning to gain expertise in this area. On the other hand, I still need to learn how to use variables other than colors, and how to write more concise media requests. While I've made a lot of progress, my code still has room for improvement, but I'm determined to continue learning and working. I've studied FreeCodeCamp courses, paid CSS courses through Codecademy, and I have a long list of other courses that I plan to tackle in the future. My ultimate goal is to master **JavaScript**, but I know that this will require a lot of work and dedication.
 
 ## HTML CSS Popup
+
+[Demo](https://yazdrahobycha.github.io/HTML-CSS-Popup/) | [Code Base](https://github.com/yazdrahobycha/HTML-CSS-Popup) | [Pull Request](https://github.com/kottans/frontend-2019-p2p/pull/215)  
+
+The project was a challenging but exciting experience. At first, I thought manipulating checkboxes would be straightforward, but I soon realized that it was not as simple as it seemed. The biggest challenge I faced was arranging them with the focus state without breaking any pieces. I had to spend a considerable amount of time trying different approaches until I found a solution that worked.
+
+Despite the difficulties, I was pleasantly surprised by the end result. The project turned out to be more visually appealing than I expected, and I am proud of my ability to create an elegant design. Who would have thought it - yours truly, with zero design skills, stumbled upon a magic spell that brought this project to life! It's like I stumbled into a parallel universe where design gurus reside and sprinkled some of their dust on me. I still can't believe it myself, but hey, I'll take it and run with it!
+
+However, there is still room for improvement. The project needs to be fully adapted to fullscreen, which is one of my priorities. Overall, this was an excellent task that allowed me to learn a lot, and I am grateful for the opportunity to work on it. The satisfaction of completing a challenging project is truly priceless.
+
+## JS Basics
 
