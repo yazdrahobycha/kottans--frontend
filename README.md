@@ -1,11 +1,11 @@
 # Kottans-Frontend
 
-## Всім привіт! Мене звати Арсен, я з Дрогобича
+## Hello everyone! My name is Arsen, I am from Drohobych.
 
-Дуже вдячний за можливість навчатись на цьому початкову курсі безкоштовно! Також дякую за підтримку і лампову атмосферу в чаті! Ви всі котики!
+I am very grateful for the opportunity to learn on this introductory course for free! Thank you also for the support and warm atmosphere in the chat! You all are kittens!
 
 > <details>
->   <summary>Клацай,тут ви!</summary>
+>   <summary>Press here, this is you.</summary>
 > <img src="cats img/alotofcats.jpeg"
 > </details>
 
@@ -16,8 +16,8 @@
 -   [x] [Git Collaboration](#git-collaboration)
 -   [x] [Intro to HTML and CSS](#intro-to-html-and-css)
 -   [x] [Responsive Web Design](#responsive-web-design)
--   [ ] [HTML CSS Popup](#html-css-popup)
--   [ ] [JS Basics](#js-basics)
+-   [x] [HTML CSS Popup](#html-css-popup)
+-   [x] [JS Basics](#js-basics)
 -   [ ] [DOM](#dom)
 -   [ ] [Tiny JS World](#tiny-js-world)
 -   [ ] [Object Oriented JS](#object-oriented-js)
@@ -29,13 +29,13 @@
 
 ## Git Basics
 
-Отже тут я розповім про свій перший досвід взаємодії з хоть чимось дотичним до програмування! Не скажу що буо легко зі всім розбиратись, напевно дні два пішло лише на усвідомлення суті програми, для чого і як вона працює. Решта пішла на засвоювання (скоріше виписування) різноманітних команд. Отже пеереду до безпосереднього планового опису:
+As a beginner in the world of programming, I can say that it was a challenging but rewarding journey. At first, I struggled to understand the fundamentals of the Git, but after two days of focused effort, I finally grasped its essence. The following days were spent honing my skills by writing various commands.
 
-1. Для мене було новим тут все. Особливо в дивовижу було по-суті перший раз усвідомлено працювати зі своїм Терміналом на Macbook (до того до терміналу я звертався лише коли були проблеми в встановленні скачаної з торента програми). Особливо цікаво було дізнатись, що існує ось такий надзвичайно зручний спосіб комунікації як VSC (до курсу я б напевно просто запитав чому все по тг не можна відправляти кек).
+1. My initial exposure to programming was a novel experience. I was particularly intrigued by the use of the Terminal on my Macbook, as I had only used it before to resolve issues when downloading programs. I was pleasantly surprised to discover VSC, which proved to be a much more efficient way of communicating.
 
-2. Здивувала ґрунтовність і заглибленість всього Git. Наскількти все продумано та детально пропрацьовано, це просто капець. Кожна деталь специфіка роботи як в команді так в соло тут на своєму місці.
+2. My admiration for Git knows no bounds. The well-designed and meticulously executed features of Git are nothing short of amazing. Whether you're working solo or as part of a team, Git provides an intuitive and streamlined experience that truly stands out in the world of programming.
 
-3. Звичайно, збираюсь використовувати здобуті знання (скоріше поки не використовувати, а усвідомлювати, вкладати в своїй голові) в подальших уроках.
+3. Of course, I plan to put my newfound knowledge to use in future lessons. I believe that through consistent application and repetition, I will be able to fully internalize and understand the concepts I have learned.
 
 ## Linux CLI, and HTTP
 
@@ -50,11 +50,11 @@
 > <img src="task_linux_cli/LinuxQuiz4.png"
 > </details>
 
-1. Отже, насправді я вперше познайомився з командною строкою Linux, хоча й користуюсь макбуком уже більш ніж 6 років. Того цього часу були лише якісь сліпі спроби щось там зробити, якийсь доступ надати, чого я ніколи до кінця не розумів. Вперше провів певні маніпуляції зі своєю файловою системою через термінал, що було дуже захоплюючим насправді. Щодо статті щодо протоколу HTTP - читалось спершу як на іноземній мові, адже найменшого уявлення не мав як працює браузер. Після кількох прочитувань і активного гугління зміг для себе скласти хоча б приблизну та абстрактну картину того як все працює, звичайно до цієї теми ще буду повертатись обовʼязково.
+1. This was my first encounter with the Linux command line, despite having used a Macbook for over six years. In the past, I had limited exposure to the terminal and had limited understanding of its functionality. However, I was excited to finally have the opportunity to manipulate my file system through the terminal. The article about the HTTP protocol was initially difficult to comprehend, as I had limited understanding of how a browser operates. Nevertheless, after multiple readings and extensive research, I was able to form a basic understanding of the subject. I am aware that there is still much to learn and I plan to revisit this topic in the future.
 
-2. Здивувала інформація про роботу протоколу передачі данних, злагоженість і дотошність цієх системи, заголовки на всі випадки життя так би мовити). Також здивувала реальна суть команди chmode, томущо для мене це була чарівна палочка виручалочка, яка допомагала запускати програми з торента, які самі запускатись не хотіли. А виявляється це звичайна зміна прав.
+2. I was impressed by the information about the data transfer protocol and the coherence and thoroughness of these systems. I was also intrigued by the chmode command, which I initially saw as a magical solution for launching torrent programs. I was surprised to learn that it was simply a change of rights.
 
-3. Щодо команд Linux, уже навіть на данному, початковому етапі уже активно використовую різноманітні команди (cd, chmode ls-l і тд). Звичайно, покищо я не маю можливості використовувати повний потенціал строки (який мені ще, звісно потрібно в подальшому для себе розкривати), але рухаємось у вірному напрямку! Якщо говорити  про HTTP-статтю, то, якщо чесно, ще не до кінця розумію як цю інформацію можна буде застовувати, занадто в моїй голові все покищо абстрактно, занадто багато незрозумілих термінів, понятть, процесів. Значить будемо поступово заповнювати такі темні плями і потроху розбиратись з практичним застосуванням!
+3. I am already actively using various Linux commands, such as cd, chmode, ls-l, among others. Although I am still discovering the full potential of the terminal, I am moving in the right direction. As for the HTTP article, I have yet to fully understand its concepts and processes, as they are still abstract in my mind. However, I am confident that with time and continued learning, I will gradually fill in these gaps and apply my knowledge in a practical manner.
 
 ## Git Collaboration
 
@@ -77,11 +77,11 @@
 >   <summary></summary>
 > </details>
 
-1. Довершив всвоє розуміння Git, здається мені що навіть повністю розібрався (но це не точно). Почав нормально візуалізувати собі git команди, тобто осмислив для себе їх сенс
+1. Upon completion of my studies on Git, I feel that I have a strong understanding of the topic. I am now able to visualize the Git commands and their meanings in a clear manner.
 
-2. Здивувала суть декількох git команд, які не до кінця зрозумів в першому уроці. Серед них різниця fetch і pull, зрозумів що таке upstream, зрозумів що саме робить rebase і cherry-pich і тд.
+2. During the course, I was pleasantly surprised by the depth of several Git commands that I initially had limited understanding of. I now have a clear understanding of the difference between fetch and pull, the concept of upstream, and the functions of rebase and cherry-pick, among others.
 
-3. Попередніми й вивченими в цьому уроці командами збираюсь активно користуватись при роботі з більш важчими завданнями, ніж просто редактування README.md (\* ^ ω ^)
+3. I plan to actively utilize the commands learned in this lesson as I tackle more complex tasks, beyond just editing README.md. (* ^ ω ^)
 
 ## Intro to HTML and CSS
 
@@ -99,11 +99,11 @@
 > <img src="task_html_css_intro/CodeCamp CSS.png"
 > </details>
 
-1. Знову ж таки, я тільки почав знайомитись з основами HTML та CSS, отже практично все в цій тасці для мене було новим. Різноманітні види тегів, створення форм, семантичні теги, створення найпростіших стилів, модель розташування елементів на сайт і тд - все мене захопило і змусило ще більше поглибитись в тему. Відчуваю що ще не до кінця вник в CSS, тому паралельно з наступною таскою буду проходити сертифкацію на freecodecamp.
+1. As a newcomer to the basics of HTML and CSS, I encountered many novel concepts while completing this task. From different types of tags, to creating forms, semantic tags, and basic styling, to the layout of elements on a website, everything was a new and exciting experience. I still have much to learn about CSS, and plan to continue my education through freecodecamp certification.
 
-2. Здивувала одночасна простота концепцій, які використовуються для базової розмітки сайту і його стилізації, їх глибина, масштабність того, що за допомогою цих інструментів можна зробити. Вражає!
+2. I was struck by the simplicity and depth of the concepts used for basic website markup and styling. The breadth of what can be achieved with these tools is truly impressive.
 
-3. Перед проходженням цієї таски глянув на завдання, яке мені потрібно буде зробити, а саме попап. І паралельно проходженню курсів таски я брав до особливої уваги ті конкретні інсрументи, які зможуть мені пригодитись під час виконання попапу. Все складалось як пазл. Спочатку дізнався як зробити nav (як його стилізувати, округлити краї, вистроїти li елементи вряд), потім зрозумів як зробити скрол-меню за допомою overflow, як зробити це меню зникаючим і тд. Тобто вже себе готую до практичного виконання завдання! Не буду лукавити - трішки страшно, але настроєний я серйозно, впораюсь!
+3. In preparation for a future task to create a pop-up, I focused on learning specific tools and techniques that would be useful. I approached the task like putting together a puzzle, first learning how to create a nav, stylize it, round edges, and arrange li elements in a row. Then I learned how to create a scroll menu using overflow and how to make it disappear. While a bit intimidating, I am committed to successfully completing this task.
 
 ## Responsive Web Design
 
@@ -127,8 +127,11 @@
 > <img src="task_responsive_web_design/GridGarden.png"
 > </details>
 
-1. Заглиблення пройшло успішно! Окрім завдання адаптивного дизайну, яке було вказану, пройшов усі великі теми CSS, зверстав 4 адаптивні сайти, зрозумів основні паттерни дій при аналізі й відтворені лейауту. Щодо нової речі - це звичайно флекс і грід! Вивчивши їх, я фактично навчився як відтворити будь-який макет, вони реально універсальні! Хоча, й зі своїми підводними каменями над якими потрібно деколи годинку-другу посидіти і знайти для них вирішення. Також мені досі ще важко дається відтворення всього в ідеальних пропорціях та взаємодіях. Деколи багато що ламається, і потрібно використувати костилі. Загалом, на розділ респонсивного дизайну й довивчення основ CSS пішло приблизно півтора місяці. І само собою, не все було ідеально, не все з першого разу розумілося (особливо властивості гріда), здавалося що я просто загадто тупий щоб вирішити якусь проблему, але за допомогою великої кількісті стараннь все врешті-решт виходило.
+1. My progress in learning CSS and responsive design has been substantial. I not only completed the task assigned to me on responsive design, but I also covered a range of other CSS topics. I created four responsive websites, and gained a solid understanding of the steps involved in analyzing and rendering layouts. Of particular interest was learning about flex and grid, which I discovered are extremely versatile tools for creating any layout. While there were some difficulties, such as figuring out how to proportion elements and interactions perfectly, I was able to overcome these challenges with a lot of hard work and determination. In total, it took me about a month and a half to complete the responsive design section and learn the basics of CSS.
 
-2. Здивувало з якою легкістю можна робити різноманітні анімації та трансформи. До того як почав вивчати цю тему, різноманітні приколяси на сайтах (типу зміна полеження елемента при наведенні і тд) здавались майже магією, яку зможуть відтворити лише інтернет-генії. Ну добре, можливо трішки перебільшую, але суть зрозуміла. Дійсно, анімаціями керувати легко, хоч взяти навіть до уваги те що в одній властивості можна всістити і її час, розгін і затримку.
+2. The ease with which animations and transformations can be created was a pleasant surprise. Before I started learning about these topics, I thought that the tricks I saw on websites, like changing the position of an element when hovering, were only possible for the most talented web developers. I soon learned that animations are actually quite manageable, even when taking into account the fact that one property can contain timing, acceleration, and delay.
 
-3. Флекс - наше все. Не знаю чому, але в більшості випадків уже зараз використовую його частіше за грід (можливо з віком пройде). Ось його буду використовувати постійно! Також уже роблю різноманітні цікаві трансформи (у мене уже почався період експертментів). Щодо іншого - перемінні не знаю ще як застосовувати окрім кольорів, медіа-запити потрібно ще навчитись писати лаконічніше, бо після мене як після малої дитини в них залишається цілковитий безлад (та й впринципі про весь мій код так можна сказати, але то вже інша справа). В цілому - надзвичайно багато почерпнув для себе, окрім запропонованих в завданні матеріалів процшов ще курси FreeCodeCamp та всі платні по CSS (оформив підписку) на CodeAcademy. Та й на додачу назбирав ще цілу тонну інших, які потрібно в майбутньому пройти, але не зараз звісно, бо до JavaScript так і не дойду (ух переживаю). Працюємо далі!
+3. Flex has become a crucial tool in my CSS toolkit. I find myself using it more often than grid, although I expect this may change as I continue to develop my skills. I am already experimenting with various interesting transformations, and feel that I am beginning to gain expertise in this area. On the other hand, I still need to learn how to use variables other than colors, and how to write more concise media requests. While I've made a lot of progress, my code still has room for improvement, but I'm determined to continue learning and working. I've studied FreeCodeCamp courses, paid CSS courses through Codecademy, and I have a long list of other courses that I plan to tackle in the future. My ultimate goal is to master JavaScript, but I know that this will require a lot of work and dedication.
+
+## HTML CSS Popup
+
