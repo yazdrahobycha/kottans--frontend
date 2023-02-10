@@ -1,8 +1,7 @@
 # Kottans-Frontend
 
-## Hello everyone! My name is Arsen, I am from Drohobych.
-
-I am very grateful for the opportunity to learn on this introductory course for free! Thank you also for the support and warm atmosphere in the chat! You all are kittens!
+## Greetings, folks! Arsen here, hailing all the way from the charming city of Drohobych. Brace yourselves, I come with a joke for every situation! _winks_
+Woo-hoo! I'm one lucky duck for getting to learn on this intro course for free! And a big thank you to the support crew and the cuddly-warm atmosphere in the chat! Y'all are just a bunch of cute little kittens!
 
 > <details>
 >   <summary>Press here, this is you.</summary>
@@ -29,13 +28,11 @@ I am very grateful for the opportunity to learn on this introductory course for 
 
 ## Git Basics
 
-As a beginner in the world of programming, I can say that it was a challenging but rewarding journey. At first, I struggled to understand the fundamentals of the Git, but after two days of focused effort, I finally grasped its essence. The following days were spent honing my skills by writing various commands.
+1. As a newcomer to the world of programming, I was in for a real treat. I was initially intimidated by the thought of using the Terminal on my Macbook, but then I discovered the beauty of Visual Studio Code (VSC) and life was never the same.
 
-1. My initial exposure to programming was a novel experience. I was particularly intrigued by the use of the Terminal on my Macbook, as I had only used it before to resolve issues when downloading programs. I was pleasantly surprised to discover VSC, which proved to be a much more efficient way of communicating.
+2. After two days of dedicated effort, I finally understood the awesomeness that is Git. The sheer brilliance of its design and features left me in awe. Whether you're flying solo or part of a team, Git makes collaborating on projects a breeze.
 
-2. My admiration for Git knows no bounds. The well-designed and meticulously executed features of Git are nothing short of amazing. Whether you're working solo or as part of a team, Git provides an intuitive and streamlined experience that truly stands out in the world of programming.
-
-3. Of course, I plan to put my newfound knowledge to use in future lessons. I believe that through consistent application and repetition, I will be able to fully internalize and understand the concepts I have learned.
+2. I'm excited to continue my programming journey and put my newfound Git skills to the test. With time and practice, I know I'll be able to fully internalize these concepts and reach new levels of understanding.
 
 ## Linux CLI, and HTTP
 
@@ -50,11 +47,16 @@ As a beginner in the world of programming, I can say that it was a challenging b
 > <img src="task_linux_cli/LinuxQuiz4.png"
 > </details>
 
-1. This was my first encounter with the Linux command line, despite having used a Macbook for over six years. In the past, I had limited exposure to the terminal and had limited understanding of its functionality. However, I was excited to finally have the opportunity to manipulate my file system through the terminal. The article about the HTTP protocol was initially difficult to comprehend, as I had limited understanding of how a browser operates. Nevertheless, after multiple readings and extensive research, I was able to form a basic understanding of the subject. I am aware that there is still much to learn and I plan to revisit this topic in the future.
+1. Finally, I got to step into the mysterious world of the Linux command line! After using a Macbook for six whole years, I never really got around to exploring the terminal. But boy, am I excited to be manipulating my file system like a pro! The article about the HTTP protocol? That was a whole different story. I was like a deer in the headlights, not having a clue about how a browser works. But after some intense reading and research, I've got a basic understanding now. And the best part? I've still got so much more to learn!
 
-2. I was impressed by the information about the data transfer protocol and the coherence and thoroughness of these systems. I was also intrigued by the <code>chmode</code> command, which I initially saw as a magical solution for launching torrent programs. I was surprised to learn that it was simply a change of rights.
+2. Data transfer protocols and systems, huh? I was thoroughly impressed by the coherence and thoroughness of it all. And the <code>chmode</code> command? I thought it was some sort of magic solution to launch torrent programs, but nope! It's just a simple rights change. Who knew?
 
-3. I am already actively using various Linux commands, such as <code>cd</code>, <code>chmode</code>, <code>ls-l</code>, among others. Although I am still discovering the full potential of the terminal, I am moving in the right direction. As for the HTTP article, I have yet to fully understand its concepts and processes, as they are still abstract in my mind. However, I am confident that with time and continued learning, I will gradually fill in these gaps and apply my knowledge in a practical manner.
+3. I'm already using some of the Linux commands like a pro - <code>cd</code>, <code>chmode</code>, <code>ls-l</code>, and more. Although, I'm still discovering the terminal's full potential, I'm on the right path. As for the HTTP article, I'm still trying to wrap my head around it, but I'm confident that with time and more learning, I'll get there. After all, slow and steady wins the race! (Or at least, that's what Mom`s telling me.)
+
+
+
+
+
 
 ## Git Collaboration
 
@@ -77,11 +79,11 @@ As a beginner in the world of programming, I can say that it was a challenging b
 >   <summary></summary>
 > </details>
 
-1. Upon completion of my studies on Git, I feel that I have a strong understanding of the topic. I am now able to visualize the Git commands and their meanings in a clear manner.
+1. Git, oh Git, where do I begin? I feel like I've just unlocked the secrets of the universe after completing my studies on this amazing tool. I can now visualize Git commands as if they're sending me telepathic messages, like "git clone, git push, git merge, you got this!"
 
-2. During the course, I was pleasantly surprised by the depth of several Git commands that I initially had limited understanding of. I now have a clear understanding of the difference between `fetch` and `pull`, the concept of <code>upstream</code>, and the functions of <code>rebase</code> and <code>cherry-pick</code>, among others.
+2. Who knew there was so much to learn about Git? I was pleasantly surprised by the depth of the commands I thought were simple, but now I'm a Git master. The difference between fetch and pull? Child's play. Understanding upstream? Easy peasy. Rebase and cherry-pick? Just a walk in the park.
 
-3. I plan to actively utilize the commands learned in this lesson as I tackle more complex tasks, beyond just editing README.md. (* ^ ω ^)
+3. Time to put my Git skills to the test! I'm ready to tackle complex tasks like a boss, beyond just editing README.md. Brace yourselves, Git world, I'm coming for you! (╯°□°)╯︵ ┻━┻
 
 ## Intro to HTML and CSS
 
@@ -99,11 +101,11 @@ As a beginner in the world of programming, I can say that it was a challenging b
 > <img src="task_html_css_intro/CodeCamp CSS.png"
 > </details>
 
-1. As a newcomer to the basics of HTML and CSS, I encountered many novel concepts while completing this task. From different types of tags, to creating forms, semantic tags, and basic styling, to the layout of elements on a website, everything was a new and exciting experience. I still have much to learn about CSS, and plan to continue my education through freecodecamp certification.
+1. As a beginner in HTML and CSS, I stumbled upon a whole new world of wonders! From tags that are plain text to tags that have superpowers, I was amazed by the limitless possibilities that HTML and CSS have to offer. Who knew a few lines of code could create such magic on the internet!
 
-2. I was struck by the simplicity and depth of the concepts used for basic website markup and styling. The breadth of what can be achieved with these tools is truly impressive.
+2. The deeper I delved into HTML and CSS, the more I realized how simple yet powerful these tools are. It's like having a toolbox that can turn a blank canvas into a masterpiece. I mean, who needs Picasso when you've got HTML and CSS, right?
 
-3. In preparation for a future task to create a pop-up, I focused on learning specific tools and techniques that would be useful. I approached the task like putting together a puzzle, first learning how to create a <code>nav</code>, stylize it, round edges, and arrange <code>li</code> elements in a row. Then I learned how to create a scroll menu using <code>overflow</code> and how to make it disappear. While a bit intimidating, I am committed to successfully completing this task.
+3. With a goal of creating a pop-up that will leave everyone in awe, I dived into learning the techniques that would help me achieve it. It was like putting together a jigsaw puzzle, where each piece was a new concept to learn. From creating a navigation bar that's cooler than the Fonz, to making the scroll menu disappear like a magician, I was on a mission to master it all. I'm ready to take on this task, even if it means I'll have to tame the overflow beast!.
 
 ## Responsive Web Design
 
@@ -127,21 +129,21 @@ As a beginner in the world of programming, I can say that it was a challenging b
 > <img src="task_responsive_web_design/GridGarden.png"
 > </details>
 
-1. My progress in learning CSS and responsive design has been substantial. I not only completed the task assigned to me on responsive design, but I also covered a range of other CSS topics. I created four responsive websites, and gained a solid understanding of the steps involved in analyzing and rendering layouts. Of particular interest was learning about flex and grid, which I discovered are extremely versatile tools for creating any layout. While there were some difficulties, such as figuring out how to proportion elements and interactions perfectly, I was able to overcome these challenges with a lot of hard work and determination. In total, it took me about a month and a half to complete the responsive design section and learn the basics of CSS.
+1. I've been slaying it in the CSS and responsive design game! I took the task assigned to me on responsive design and turned it into a month and a half long extravaganza, completing four responsive websites and mastering the basics of CSS. I was pleasantly surprised by how easy it was to create animations and transformations, and flex has quickly become my trusty sidekick in my CSS toolkit. Of course, there were some challenges, like figuring out the perfect proportions and interactions, but with a lot of hard work and determination, I was able to conquer them all.
 
-2. The ease with which animations and transformations can be created was a pleasant surprise. Before I started learning about these topics, I thought that the tricks I saw on websites, like changing the position of an element when hovering, were only possible for the most talented web developers. I soon learned that animations are actually quite manageable, even when taking into account the fact that one property can contain timing, acceleration, and delay.
+2. Who knew that animations and transformations could be so easy to create? I used to think that only the most talented web developers were capable of performing the magic tricks I saw on websites, like changing the position of an element when hovering. But I soon learned that animations are actually quite manageable, and that's when the fun began!
 
-3. **Flex** has become a crucial tool in my CSS toolkit. I find myself using it more often than grid, although I expect this may change as I continue to develop my skills. I am already experimenting with various interesting transformations, and feel that I am beginning to gain expertise in this area. On the other hand, I still need to learn how to use variables other than colors, and how to write more concise media requests. While I've made a lot of progress, my code still has room for improvement, but I'm determined to continue learning and working. I've studied FreeCodeCamp courses, paid CSS courses through Codecademy, and I have a long list of other courses that I plan to tackle in the future. My ultimate goal is to master **JavaScript**, but I know that this will require a lot of work and dedication.
+3. Flex has been a game-changer for me in my CSS journey, but I'm keeping an open mind as I continue to develop my skills. I'm already experimenting with different transformations and feel like I'm starting to gain expertise. On the other hand, I still have some work to do, like learning how to use variables other than colors and writing more concise media requests. But I'm determined to keep learning and improving, and my ultimate goal is to master JavaScript. I've already checked out FreeCodeCamp and Codecademy, and I have a long list of other courses waiting for me. The journey to becoming a JavaScript master might be long, but I'm ready to put in the work and dedication!
 
 ## HTML CSS Popup
 
 [Demo](https://yazdrahobycha.github.io/HTML-CSS-Popup/) | [Code Base](https://github.com/yazdrahobycha/HTML-CSS-Popup) | [Pull Request](https://github.com/kottans/frontend-2019-p2p/pull/215)  
 
-The project was a challenging but exciting experience. At first, I thought manipulating checkboxes would be straightforward, but I soon realized that it was not as simple as it seemed. The biggest challenge I faced was arranging them with the focus state without breaking any pieces. I had to spend a considerable amount of time trying different approaches until I found a solution that worked.
+The project was a roller coaster of emotions, but mostly excitement! I thought manipulating checkboxes would be a walk in the park, but boy, was I in for a surprise. Trying to arrange them with the focus state was like playing a game of Jenga, one wrong move and everything comes tumbling down. But, with perseverance and a few burnt midnight oil, I finally got the hang of it.
 
-Despite the difficulties, I was pleasantly surprised by the end result. The project turned out to be more visually appealing than I expected, and I am proud of my ability to create an elegant design. Who would have thought it - yours truly, with zero design skills, stumbled upon a magic spell that brought this project to life! It's like I stumbled into a parallel universe where design gurus reside and sprinkled some of their dust on me. I still can't believe it myself, but hey, I'll take it and run with it!
+As for the end result, it was a beautiful sight to behold. I was pleasantly surprised that it turned out to be way better looking than I thought it would be. I mean, it's like I stumbled upon a secret formula that only design wizards know of. I'll take all the credit for it, even though I have zero design skills (or so I thought).
 
-However, there is still room for improvement. The project needs to be fully adapted to fullscreen, which is one of my priorities. Overall, this was an excellent task that allowed me to learn a lot, and I am grateful for the opportunity to work on it. The satisfaction of completing a challenging project is truly priceless.
+However, there's always room for improvement, and in this case, it's fullscreen adaptability. I'm already working on it and can't wait to see the final product. Overall, this project was an excellent opportunity for me to learn and grow, and the satisfaction of completing a challenging project is truly worth every penny (or lack thereof).
 
 ## JS Basics
 
@@ -165,3 +167,8 @@ However, there is still room for improvement. The project needs to be fully adap
 > <img src="task_js_basics/Intermediate Algorithm Scripting.png"
 > </details>
 
+1. So, the real coding journey has begun! It was my first time diving into the world of computer science and let me tell you, it was a wild ride! The course I took was a tough cookie for a newbie like me, but I was determined to crack the code (pun intended). I had to do some extra digging to get a grasp on the basics, and boy did I discover a lot of new and exciting things! Variables, arrays, functions... they finally started to make sense to me!
+
+2. To my surprise, programming isn't just for the geniuses! Sure, it took some long hours of dedication, but with the right mindset (and a little bit of pep talk to myself), even someone with average IQ (like moi) can understand the concept. Personally, I was blown away by the implementation of recursion in JavaScript. As a fan of cosmic fractal bodies, I couldn't have been more thrilled!
+
+3. I learned the basics of Javascript in this chapter and trust me, it's just the tip of the iceberg! But if I had to pick one thing that stood out, it would definitely be loops! I fell in love with them from the get-go and how they can be used to iterate anything and everything. The only downside is, I tend to gravitate towards using loops even when it's not entirely justified. Oh well, nobody's perfect, I'll work on it. Overall, I am motivated to keep learning and tackle more complex challenges every day! Here's to the next chapter!
