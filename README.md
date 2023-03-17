@@ -177,7 +177,7 @@ However, there's always room for improvement, and in this case, it's fullscreen 
 
 > <details>
 >   <summary>Coursera DOM Manipulation</summary>
-> <img src="task_js_dom/Coursera_Dom_Manipulation.png"
+> <img src="task_js_dom/Coursera_Dom.png"
 > </details>
 
 > <details>
