@@ -172,3 +172,23 @@ However, there's always room for improvement, and in this case, it's fullscreen 
 2. To my surprise, programming isn't just for the geniuses! Sure, it took some long hours of dedication, but with the right mindset (and a little bit of pep talk to myself), even someone with average IQ (like moi) can understand the concept. Personally, I was blown away by the implementation of recursion in JavaScript. As a fan of cosmic fractal bodies, I couldn't have been more thrilled!
 
 3. I learned the basics of Javascript in this chapter and trust me, it's just the tip of the iceberg! But if I had to pick one thing that stood out, it would definitely be loops! I fell in love with them from the get-go and how they can be used to iterate anything and everything. The only downside is, I tend to gravitate towards using loops even when it's not entirely justified. Oh well, nobody's perfect, I'll work on it. Overall, I am motivated to keep learning and tackle more complex challenges every day! Here's to the next chapter!
+
+## DOM
+
+> <details>
+>   <summary>Coursera DOM Manipulation</summary>
+> <img src="task_js_dom/Coursera_Dom_Manipulation.png"
+> </details>
+
+> <details>
+>   <summary>FreeCodeCamp Intermediate Algorithm Scripting p.2</summary>
+> <img src="task_js_dom/Intemediate_algorithm_scripting_2 .png"
+> </details>
+
+[Demo](https://soft-malasada-c2cfcf.netlify.app/) | [Code Base](https://github.com/yazdrahobycha/DS-Wiki) | [Pull Request](https://github.com/kottans/frontend-2019-p2p/pull/222)  
+
+Once again, I have encountered DOM manipulations for the first time (just like with everything else on this course in general)! It was initially daunting to apply my acquired knowledge to real tasks, but as I worked on them, the apprehension disappeared. The FreeCodeCamp assignments proved quite challenging for me, and I could spend an entire day on a single task (which is why the DOM task took me so long). However, these efforts were not in vain, as they helped my brain adopt a 'programmer's mindset' and taught me not to give up when faced with seemingly insurmountable difficulties.
+
+I was amazed by the way in which an HTML page can be created and content can be uploaded into it! Now, when I have to create markup for a new task, it doesn't seem very cool to do everything manually. In fact, I was surprised by the flexibility of this method and how relatively easy it is to use!
+
+I think that DOM methods will be used on a daily basis, and this is self-evident! As I mentioned in the previous paragraph, the method of creating and uploading HTML markup using JavaScript seemed much more sophisticated and flexible to me, so I am eager to find ways to apply this method as soon as possible!
