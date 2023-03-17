@@ -17,7 +17,7 @@ Woo-hoo! I'm one lucky duck for getting to learn on this intro course for free! 
 -   [x] [Responsive Web Design](#responsive-web-design)
 -   [x] [HTML CSS Popup](#html-css-popup)
 -   [x] [JS Basics](#js-basics)
--   [ ] [DOM](#dom)
+-   [x] [DOM](#dom)
 -   [ ] [Tiny JS World](#tiny-js-world)
 -   [ ] [Object Oriented JS](#object-oriented-js)
 -   [ ] [OOP Exercise](#oop-exercise)
