@@ -18,9 +18,9 @@ Woo-hoo! I'm one lucky duck for getting to learn on this intro course for free! 
 -   [x] [HTML CSS Popup](#html-css-popup)
 -   [x] [JS Basics](#js-basics)
 -   [x] [DOM](#dom)
--   [ ] [Tiny JS World](#tiny-js-world)
--   [ ] [Object Oriented JS](#object-oriented-js)
--   [ ] [OOP Exercise](#oop-exercise)
+-   [x] [Tiny JS World](#tiny-js-world)
+-   [x] [Object Oriented JS](#object-oriented-js)
+-   [x] [OOP Exercise](#oop-exercise)
 -   [ ] [Offline Web Applications](#offline-web-applications)
 -   [ ] [Memory Pair Game](#memory-pair-game)
 -   [ ] [Website Performance Optimization](#website-performance-optimization)
@@ -192,3 +192,32 @@ However, there's always room for improvement, and in this case, it's fullscreen 
 2. I was amazed by the way in which an HTML page can be created and content can be uploaded into it! Now, when I have to create markup for a new task, it doesn't seem very cool to do everything manually. In fact, I was surprised by the flexibility of this method and how relatively easy it is to use!
 
 3. I think that DOM methods will be used on a daily basis, and this is self-evident! As I mentioned in the previous paragraph, the method of creating and uploading HTML markup using JavaScript seemed much more sophisticated and flexible to me, so I am eager to find ways to apply this method as soon as possible!
+
+## Tiny JS World
+
+At first, I thought the task was quite easy, as I did not see any difficulties in implementing several objects. How wrong I was! The task turned out to be an infinite source of new concepts! Of course, at this stage, I was like a blind person, doing everything the old-fashioned way, so I have very little to tell at the moment!
+
+## Object Oriented JS
+
+> <details>
+>   <summary>[CodeWars](https://www.codewars.com/users/ArsenYavorskyi)</summary>
+> <img src="task_js_oop/codewars.png"
+> </details>
+
+Classic Frogger Game: [Demo](https://yazdrahobycha.github.io/classic-frogger-game/) | [Code Base](https://github.com/yazdrahobycha/classic-frogger-game/blob/master/js/app.js)
+
+1. All the OOP concepts I learned were new to me, as was the very concept of OOP itself. I learned both ways of creating classes in JS, using classical prototypes and constructor functions, as well as with the help of new keywords such as class and super. I tried to delve into the concepts of DRY and SOLID and complete the programmer's task while adhering to the postulates defined in these concepts.
+
+2. The concept of using and creating getters and setters greatly surprised me. I don't know how good it is, but it seemed to me such a beautiful realization of encapsulation and privacy that observing and using it brings me true, genuine pleasure!
+
+3. Actually, I'm still not sure where I need to use my newly acquired knowledge of OOP. That is, while working on my own small projects, I see the use of OOP as excess, which can be completely coped with without it! Of course, I understand that this programming paradigm has many advantages, but at this stage, I get the impression that OOP is more useful for working with a large and long-term project, where the problem of maintaining and universalizing code is much more acute!
+
+## OOP Exercise
+
+[Demo](https://yazdrahobycha.github.io/a-tiny-JS-world/) | [Code Base](https://github.com/yazdrahobycha/a-tiny-JS-world/blob/master/index.js)
+
+1. For the first time, I implemented prototypical inheritance in a new way introduced in ES6, and it was extremely interesting to delve into the real-world application of OOP principles. Specifically, what I learned during this task was how to better separate classes and pass parameters to them for greater flexibility of the classes themselves and for more readable code. I also implemented the OOP principle of polymorphism for the first time, which means I implemented a method that works correctly only with that class for each class.
+
+2. I was surprised by the immutability of the inheritance concept in JS despite a completely different implementation on the outside. Under the hood, despite the introduction of new keywords, the same prototypical inheritance concept remained. I was also surprised to learn that the constructor of the constructor (Function() constructor) exists and is not the same as the constructor of the instance of the constructor. I'm still scratching my head over this!
+
+3. Again, I can't imagine where I can apply this yet, but I'm confident that sooner or later I'll have to recall it and actively use it!
