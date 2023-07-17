@@ -228,7 +228,7 @@ Classic Frogger Game: [Demo](https://yazdrahobycha.github.io/classic-frogger-gam
 
 ## Memory Pair Game
 
-[Code base](https://github.com/yazdrahobycha/ChromaPairs) | [Live Demo](https://stupendous-cranachan-107ee2.netlify.app/)
+[Code base](https://github.com/yazdrahobycha/ChromaPairs) | [Live Demo](https://stupendous-cranachan-107ee2.netlify.app/) | [Pull Request](https://github.com/kottans/frontend-2019-p2p/pull/234)
 
 This project proved to be quite challenging for me, as I worked on a variety of functions that kept me busy. The main difficulty I encountered was understanding the complex structure of the application's different stages during runtime. To overcome this, I found great help in the XState library, which assisted me in managing the application's logic and ensuring the correct sequence of actions. Using this library effectively required me to delve deep into its principles and understand the concept of state management from the ground up. This involved spending long hours reading the documentation, but it was worth it as I was able to create a stable model of the application's possible states and the actions allowed in each state. For example, I focused on implementing the gameplay structure, logic, and actions performed at different moments during the application's execution.
 
