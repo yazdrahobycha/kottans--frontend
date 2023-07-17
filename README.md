@@ -1,6 +1,7 @@
 # Kottans-Frontend
 
 ## Greetings, folks! Arsen here, hailing all the way from the charming city of Drohobych. Brace yourselves, I come with a joke for every situation! _winks_
+
 Woo-hoo! I'm one lucky duck for getting to learn on this intro course for free! And a big thank you to the support crew and the cuddly-warm atmosphere in the chat! Y'all are just a bunch of cute little kittens!
 
 > <details>
@@ -32,7 +33,7 @@ Woo-hoo! I'm one lucky duck for getting to learn on this intro course for free! 
 
 2. After two days of dedicated effort, I finally understood the awesomeness that is Git. The sheer brilliance of its design and features left me in awe. Whether you're flying solo or part of a team, Git makes collaborating on projects a breeze.
 
-2. I'm excited to continue my programming journey and put my newfound Git skills to the test. With time and practice, I know I'll be able to fully internalize these concepts and reach new levels of understanding.
+3. I'm excited to continue my programming journey and put my newfound Git skills to the test. With time and practice, I know I'll be able to fully internalize these concepts and reach new levels of understanding.
 
 ## Linux CLI, and HTTP
 
@@ -52,11 +53,6 @@ Woo-hoo! I'm one lucky duck for getting to learn on this intro course for free! 
 2. Data transfer protocols and systems, huh? I was thoroughly impressed by the coherence and thoroughness of it all. And the <code>chmode</code> command? I thought it was some sort of magic solution to launch torrent programs, but nope! It's just a simple rights change. Who knew?
 
 3. I'm already using some of the Linux commands like a pro - <code>cd</code>, <code>chmode</code>, <code>ls-l</code>, and more. Although, I'm still discovering the terminal's full potential, I'm on the right path. As for the HTTP article, I'm still trying to wrap my head around it, but I'm confident that with time and more learning, I'll get there. After all, slow and steady wins the race! (Or at least, that's what Mom`s telling me.)
-
-
-
-
-
 
 ## Git Collaboration
 
@@ -137,7 +133,7 @@ Woo-hoo! I'm one lucky duck for getting to learn on this intro course for free! 
 
 ## HTML CSS Popup
 
-[Demo](https://yazdrahobycha.github.io/HTML-CSS-Popup/) | [Code Base](https://github.com/yazdrahobycha/HTML-CSS-Popup) | [Pull Request](https://github.com/kottans/frontend-2019-p2p/pull/215)  
+[Demo](https://yazdrahobycha.github.io/HTML-CSS-Popup/) | [Code Base](https://github.com/yazdrahobycha/HTML-CSS-Popup) | [Pull Request](https://github.com/kottans/frontend-2019-p2p/pull/215)
 
 The project was a roller coaster of emotions, but mostly excitement! I thought manipulating checkboxes would be a walk in the park, but boy, was I in for a surprise. Trying to arrange them with the focus state was like playing a game of Jenga, one wrong move and everything comes tumbling down. But, with perseverance and a few burnt midnight oil, I finally got the hang of it.
 
@@ -185,7 +181,7 @@ However, there's always room for improvement, and in this case, it's fullscreen 
 > <img src="task_js_dom/Intemediate_algorithm_scripting_2 .png"
 > </details>
 
-[Demo](https://soft-malasada-c2cfcf.netlify.app/) | [Code Base](https://github.com/yazdrahobycha/DS-Wiki) | [Pull Request](https://github.com/kottans/frontend-2019-p2p/pull/222)  
+[Demo](https://soft-malasada-c2cfcf.netlify.app/) | [Code Base](https://github.com/yazdrahobycha/DS-Wiki) | [Pull Request](https://github.com/kottans/frontend-2019-p2p/pull/222)
 
 1. Once again, I have encountered DOM manipulations for the first time (just like with everything else on this course in general)! It was initially daunting to apply my acquired knowledge to real tasks, but as I worked on them, the apprehension disappeared. The FreeCodeCamp assignments proved quite challenging for me, and I could spend an entire day on a single task (which is why the DOM task took me so long). However, these efforts were not in vain, as they helped my brain adopt a 'programmer's mindset' and taught me not to give up when faced with seemingly insurmountable difficulties.
 
@@ -221,3 +217,23 @@ Classic Frogger Game: [Demo](https://yazdrahobycha.github.io/classic-frogger-gam
 2. I was surprised by the immutability of the inheritance concept in JS despite a completely different implementation on the outside. Under the hood, despite the introduction of new keywords, the same prototypical inheritance concept remained. I was also surprised to learn that the constructor of the constructor (Function() constructor) exists and is not the same as the constructor of the instance of the constructor. I'm still scratching my head over this!
 
 3. Again, I can't imagine where I can apply this yet, but I'm confident that sooner or later I'll have to recall it and actively use it!
+
+## Offline Web Applications
+
+1. The concept of Progressive Web Apps (PWAs) was completely new to me, and I didn't even pay attention to its installation icon before! However, when I found out what it actually means and how it saves data for offline browsing, my interest grew significantly. Understanding how PWA works, its ability to store and update data, became very interesting to me.
+
+2. I was pleasantly surprised by the simplicity of implementing such functionality! Usually, it boils down to using an additional layer known as a Service Worker, which intercepts requests to load resources and stores them in a cache. What I was particularly impressed with was the ability to customize this behavior. You can configure which resources will be stored, when they will be stored and updated. You can also determine whether cached or downloaded data is sent to the client first. These features provide additional flexibility and usefulness to developers.
+
+3. In my next project, I plan to implement a service worker and turn my web application into a PWA. I will start with static files, caching them for offline access. This will be a great start to further understand and optimize the processes associated with PWA. Gradually, I will expand the functionality of the application, including dynamic caching and data handling, to provide an even more convenient and efficient experience for users.
+
+## Memory Pair Game
+
+[Code base](https://github.com/yazdrahobycha/ChromaPairs) | [Live Demo](https://stupendous-cranachan-107ee2.netlify.app/)
+
+This project proved to be quite challenging for me, as I worked on a variety of functions that kept me busy. The main difficulty I encountered was understanding the complex structure of the application's different stages during runtime. To overcome this, I found great help in the XState library, which assisted me in managing the application's logic and ensuring the correct sequence of actions. Using this library effectively required me to delve deep into its principles and understand the concept of state management from the ground up. This involved spending long hours reading the documentation, but it was worth it as I was able to create a stable model of the application's possible states and the actions allowed in each state. For example, I focused on implementing the gameplay structure, logic, and actions performed at different moments during the application's execution.
+
+Working with the anime.js library presented unexpected difficulties for me, especially when dealing with a large number of animations. It was important to ensure that the animations didn't overlap and ran in the intended sequence. Through this project, I learned how to create animations in JavaScript, and I believe that there are endless possibilities for their application. I had to fix several bugs in my custom implementation of button animations, such as hover and click effects. In addition to maintaining the overall timeline, I had to pay attention to small details, like how the buttons behaved when the mouse was clicked inside the button and then moved outside of its area.
+
+This project also introduced me to Webpack, a modular bundler, for the first time. Understanding and configuring this tool was not easy due to the many plugins, loaders, and additional functions involved. However, I managed to overcome the initial confusion and successfully set up the project, including the server and build process. Setting up Progressive Web App (PWA) functionality with Webpack was particularly challenging, as I had no prior experience with it. Eventually, I used the Workbox plugin, which made the task easier, although it still had its challenges.
+
+Overall, this is the largest project I have worked on to date. Throughout its development, I gained valuable experience in writing and debugging code, as well as understanding the logic behind various functions.
